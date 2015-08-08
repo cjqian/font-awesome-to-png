@@ -1,0 +1,13 @@
+#!/bin/bash
+
+#where exported are to go
+FILEPATH="/media/crystal/Data/"
+#special
+PARAMS="--size 128 --color white"
+
+for image in "$@"
+do
+	python font-awesome-to-png.py $PARAMS $image
+	cp $image.png $FILEPATH
+done
+
