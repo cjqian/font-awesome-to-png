@@ -75,7 +75,7 @@ icons = {
     "bar-chart-o": u("\uf080"),
     "barcode": u("\uf02a"),
     "bars": u("\uf0c9"),
-    "bed": u("\uf0fc"),
+    "bed": u("\uf236"),
     "beer": u("\uf0fc"),
     "behance": u("\uf1b4"),
     "behance-square": u("\uf1b5"),
